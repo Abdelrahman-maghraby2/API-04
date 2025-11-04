@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "E_Commerce.Serves Abstraction/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "E_Commerce.Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/E_Commerce.Serves Abstraction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/E_Commerce.Serves Abstraction.dll": {}
+        }
+      },
+      "E_Commerce.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/E_Commerce.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/E_Commerce.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E_Commerce.Serves Abstraction/1.0.0": {
+      "type": "project",
+      "path": "../E_Commerce.Serves Abstraction/E_Commerce.Serves Abstraction.csproj",
+      "msbuildProject": "../E_Commerce.Serves Abstraction/E_Commerce.Serves Abstraction.csproj"
+    },
+    "E_Commerce.Shared/1.0.0": {
+      "type": "project",
+      "path": "../E_Commerce.Shared/E_Commerce.Shared.csproj",
+      "msbuildProject": "../E_Commerce.Shared/E_Commerce.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "E_Commerce.Serves Abstraction >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\AL-Ahram\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\API\\Project\\E Commerce,Web Solution\\E_Commerce.Presention\\E_Commerce.Presention.csproj",
+      "projectName": "E_Commerce.Presention",
+      "projectPath": "D:\\API\\Project\\E Commerce,Web Solution\\E_Commerce.Presention\\E_Commerce.Presention.csproj",
+      "packagesPath": "C:\\Users\\AL-Ahram\\.nuget\\packages\\",
+      "outputPath": "D:\\API\\Project\\E Commerce,Web Solution\\E_Commerce.Presention\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\AL-Ahram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\API\\Project\\E Commerce,Web Solution\\E_Commerce.Serves Abstraction\\E_Commerce.Serves Abstraction.csproj": {
+              "projectPath": "D:\\API\\Project\\E Commerce,Web Solution\\E_Commerce.Serves Abstraction\\E_Commerce.Serves Abstraction.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

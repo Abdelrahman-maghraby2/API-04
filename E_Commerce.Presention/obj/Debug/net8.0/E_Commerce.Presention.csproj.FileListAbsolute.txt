@@ -1,0 +1,17 @@
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\bin\Debug\net8.0\E_Commerce.Presention.deps.json
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\bin\Debug\net8.0\E_Commerce.Presention.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\bin\Debug\net8.0\E_Commerce.Presention.pdb
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\bin\Debug\net8.0\E_Commerce.Serves Abstraction.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\bin\Debug\net8.0\E_Commerce.Shared.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\bin\Debug\net8.0\E_Commerce.Serves Abstraction.pdb
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\bin\Debug\net8.0\E_Commerce.Shared.pdb
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\obj\Debug\net8.0\E_Commerce.Presention.csproj.AssemblyReference.cache
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\obj\Debug\net8.0\E_Commerce.Presention.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\obj\Debug\net8.0\E_Commerce.Presention.AssemblyInfoInputs.cache
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\obj\Debug\net8.0\E_Commerce.Presention.AssemblyInfo.cs
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\obj\Debug\net8.0\E_Commerce.Presention.csproj.CoreCompileInputs.cache
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\obj\Debug\net8.0\E_Commer.3DF7750B.Up2Date
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\obj\Debug\net8.0\E_Commerce.Presention.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\obj\Debug\net8.0\refint\E_Commerce.Presention.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\obj\Debug\net8.0\E_Commerce.Presention.pdb
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Presention\obj\Debug\net8.0\ref\E_Commerce.Presention.dll

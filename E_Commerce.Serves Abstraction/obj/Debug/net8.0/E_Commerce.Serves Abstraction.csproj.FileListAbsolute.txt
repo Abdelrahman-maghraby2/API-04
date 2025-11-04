@@ -1,0 +1,15 @@
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\bin\Debug\net8.0\E_Commerce.Serves Abstraction.deps.json
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\bin\Debug\net8.0\E_Commerce.Serves Abstraction.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\bin\Debug\net8.0\E_Commerce.Serves Abstraction.pdb
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\bin\Debug\net8.0\E_Commerce.Shared.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\bin\Debug\net8.0\E_Commerce.Shared.pdb
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\obj\Debug\net8.0\E_Commerce.Serves Abstraction.csproj.AssemblyReference.cache
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\obj\Debug\net8.0\E_Commerce.Serves Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\obj\Debug\net8.0\E_Commerce.Serves Abstraction.AssemblyInfoInputs.cache
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\obj\Debug\net8.0\E_Commerce.Serves Abstraction.AssemblyInfo.cs
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\obj\Debug\net8.0\E_Commerce.Serves Abstraction.csproj.CoreCompileInputs.cache
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\obj\Debug\net8.0\E_Commer.F7C79B97.Up2Date
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\obj\Debug\net8.0\E_Commerce.Serves Abstraction.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\obj\Debug\net8.0\refint\E_Commerce.Serves Abstraction.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\obj\Debug\net8.0\E_Commerce.Serves Abstraction.pdb
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Serves Abstraction\obj\Debug\net8.0\ref\E_Commerce.Serves Abstraction.dll

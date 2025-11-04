@@ -1,0 +1,21 @@
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\bin\Debug\net8.0\E_Commerce.Persistence.deps.json
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\bin\Debug\net8.0\E_Commerce.Persistence.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\bin\Debug\net8.0\E_Commerce.Persistence.pdb
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\bin\Debug\net8.0\E Commerce.Domain.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\bin\Debug\net8.0\E_Commerce.Serves Abstraction.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\bin\Debug\net8.0\E_Commerce.Serves.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\bin\Debug\net8.0\E_Commerce.Shared.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\bin\Debug\net8.0\E_Commerce.Serves.pdb
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\bin\Debug\net8.0\E Commerce.Domain.pdb
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\bin\Debug\net8.0\E_Commerce.Serves Abstraction.pdb
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\bin\Debug\net8.0\E_Commerce.Shared.pdb
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\obj\Debug\net8.0\E_Commerce.Persistence.csproj.AssemblyReference.cache
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\obj\Debug\net8.0\E_Commerce.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\obj\Debug\net8.0\E_Commerce.Persistence.AssemblyInfoInputs.cache
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\obj\Debug\net8.0\E_Commerce.Persistence.AssemblyInfo.cs
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\obj\Debug\net8.0\E_Commerce.Persistence.csproj.CoreCompileInputs.cache
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\obj\Debug\net8.0\E_Commer.DDF3D053.Up2Date
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\obj\Debug\net8.0\E_Commerce.Persistence.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\obj\Debug\net8.0\refint\E_Commerce.Persistence.dll
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\obj\Debug\net8.0\E_Commerce.Persistence.pdb
+D:\API\Project\E Commerce,Web Solution\E_Commerce.Persistence\obj\Debug\net8.0\ref\E_Commerce.Persistence.dll

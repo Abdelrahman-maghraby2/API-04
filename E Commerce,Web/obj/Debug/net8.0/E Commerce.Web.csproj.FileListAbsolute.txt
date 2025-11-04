@@ -1,0 +1,158 @@
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\appsettings.Development.json
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\appsettings.json
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\E Commerce.Web.staticwebassets.endpoints.json
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\E Commerce.Web.exe
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\E Commerce.Web.deps.json
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\E Commerce.Web.runtimeconfig.json
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\E Commerce.Web.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\E Commerce.Web.pdb
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\E Commerce.Web.csproj.AssemblyReference.cache
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\E Commerce.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\E Commerce.Web.AssemblyInfoInputs.cache
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\E Commerce.Web.AssemblyInfo.cs
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\E Commerce.Web.csproj.CoreCompileInputs.cache
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\E Commerce.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\E Commerce.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\scopedcss\bundle\E Commerce.Web.styles.css
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\E Commer.D0C84DC2.Up2Date
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\E Commerce.Web.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\refint\E Commerce.Web.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\E Commerce.Web.pdb
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\E Commerce.Web.genruntimeconfig.cache
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\obj\Debug\net8.0\ref\E Commerce.Web.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\E Commerce.Domain.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\E_Commerce.Persistence.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\E_Commerce.Presention.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\E_Commerce.Serves Abstraction.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\E_Commerce.Serves.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\E_Commerce.Shared.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\E_Commerce.Persistence.pdb
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\E_Commerce.Presention.pdb
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\E Commerce.Domain.pdb
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\E_Commerce.Serves.pdb
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\E_Commerce.Serves Abstraction.pdb
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\E_Commerce.Shared.pdb
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Azure.Core.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Azure.Identity.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Humanizer.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\System.ClientModel.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\System.CodeDom.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\System.Memory.Data.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\API\Project\E Commerce,Web Solution\E Commerce,Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
